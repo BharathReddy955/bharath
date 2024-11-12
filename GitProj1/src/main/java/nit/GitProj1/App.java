@@ -8,4 +8,10 @@ public class App {
         App app=new App();
      System.out.println(app.sum(10,20));
     }
+
+
+public int sub(int x, int y) {
+	return x-y;
+}
+
 }
